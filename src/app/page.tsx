@@ -30,7 +30,7 @@ export default function FormPage() {
         
       }
     } catch (error) {
-      setMessage('Serverfehler, bitte später erneut versuchen.')
+      setMessage('Serverfehlerr, bitte später erneut versuchen.')
     }
   }
 
